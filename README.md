@@ -28,3 +28,6 @@ This project aims to develop an autonomous robot capable of navigation, obstacle
 - **YOLO** and other dependencies
 
 ### Videos
+Explore our project in action by watching the full version video:
+
+[Watch the Project Video](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/video.mp4) 
