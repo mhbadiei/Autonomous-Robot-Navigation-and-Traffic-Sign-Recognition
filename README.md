@@ -30,4 +30,4 @@ This project aims to develop an autonomous robot capable of navigation, obstacle
 ### Videos
 Explore our project in action by watching the full version video:
 
-[Watch the Project Video](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/video.mp4) 
+[Watch the Project Video]([https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/video.mp4](https://github.com/mhbadiei/Autonomous-Robot-Navigation-and-Traffic-Sign-Recognition/blob/main/Traffic-Sign-Recognition.mp4)) 
