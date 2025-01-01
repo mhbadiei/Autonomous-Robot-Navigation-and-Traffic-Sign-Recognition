@@ -5,7 +5,7 @@
 This project aims to develop an autonomous robot capable of navigation, obstacle avoidance, and traffic sign recognition. The system uses the Robot Operating System (ROS) along with algorithms such as Histogram Field Vector (VFH) for path planning and YOLO for object detection.
 
 ### Scenarios
-
+ 
 1. **Obstacle Avoidance and Path Planning**:
    - **Objective**: Navigate from `(0,0)` to `(-7,13)` while avoiding obstacles.
    - **Method**: Utilizes the VFH algorithm, with input from `LaserScan` sensors to detect obstacles and determine the robot's path.
